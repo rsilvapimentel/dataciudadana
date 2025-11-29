@@ -176,14 +176,4 @@ La aplicación estará disponible en `http://localhost:5173` (por defecto)
 - Tipos de delitos más comunes
 - Tendencias mensuales
 
-## Contribuir
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Haz fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/NuevaFuncionalidad`)
-3. Commit tus cambios (`git commit -m 'Agrega nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/NuevaFuncionalidad`)
-5. Abre un Pull Request
-
 **DataCiudadana** - *Haciendo los datos públicos más accesibles para todos los chilenos* 🇨🇱
